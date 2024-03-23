@@ -1,9 +1,9 @@
-,sno,complaint,complaint_description,complaint_type,recieved_date,incident_date,county,incident_closed_date,incident_status_desc,incident_zip
-134,135,222068,concern of air pollution from private contractor,['Other'],2024-02-05,2024-02-05,Not Yet Determined,2024-02-05,Incident Closed-Managed,
-364,365,181543,Odor inside apartment.,['Air'],2023-09-22,2023-09-21,Not Yet Determined,,Incident Not Applicable to MDE,
-377,378,181510,Unknown,['Other'],2023-09-08,2023-09-08,Not Yet Determined,2023-09-22,Incident Closed - No further action,
-419,420,181349,Lead,['Other'],2023-08-07,2023-08-07,Not Yet Determined,2023-08-08,Incident Closed - No further action,
-421,422,181343,testing of fugitive matter from AC,['Other'],2023-08-07,2023-08-07,Not Yet Determined,2023-08-07,Incident Closed-Managed,
-462,463,171205,Concerned with general poor ambient air quality in Maryland and would like to know what actions are being taken to improve air quality.,['Air'],2023-06-28,2023-06-28,Statewide,2023-06-29,Incident Closed-Managed,
-466,467,171180,Automobile shop operating without machine.,['Other'],2023-06-26,2023-06-26,Not Yet Determined,2023-07-07,Incident Closed-Managed,
-641,642,140705,Freon Release,['Air'],2023-03-28,2023-03-28,Not Yet Determined,,Referred to Outside Agency,
+,sno,complaint,complaint_description,complaint_type,recieved_date,incident_date,county,incident_status_desc,incident_zip,incident_closed_date
+147,148,222068,concern of air pollution from private contractor,['Other'],2024-02-05,2024-02-05,Not Yet Determined,Incident Closed-Managed,,2024-02-05
+377,378,181543,Odor inside apartment.,['Air'],2023-09-22,2023-09-21,Not Yet Determined,Incident Not Applicable to MDE,,
+390,391,181510,Unknown,['Other'],2023-09-08,2023-09-08,Not Yet Determined,Incident Closed - No further action,,2023-09-22
+432,433,181349,Lead,['Other'],2023-08-07,2023-08-07,Not Yet Determined,Incident Closed - No further action,,2023-08-08
+434,435,181343,testing of fugitive matter from AC,['Other'],2023-08-07,2023-08-07,Not Yet Determined,Incident Closed-Managed,,2023-08-07
+475,476,171205,Concerned with general poor ambient air quality in Maryland and would like to know what actions are being taken to improve air quality.,['Air'],2023-06-28,2023-06-28,Statewide,Incident Closed-Managed,,2023-06-29
+479,480,171180,Automobile shop operating without machine.,['Other'],2023-06-26,2023-06-26,Not Yet Determined,Incident Closed-Managed,,2023-07-07
+654,655,140705,Freon Release,['Air'],2023-03-28,2023-03-28,Not Yet Determined,Referred to Outside Agency,,
