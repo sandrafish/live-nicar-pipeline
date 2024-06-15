@@ -7,9 +7,9 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 6,252761,['Other'],2024-06-12,2024-06-12,Prince George's,Incident Closed-Managed,,2024-06-12
 7,252760,['Other'],2024-06-11,2024-06-11,Howard,Incident Closed-Managed,,2024-06-11
 8,252759,['Air'],2024-06-11,2024-06-11,Frederick,Referred to Attorney General's Office,21757,
-9,252758,"['Odor', 'Smoke']",2024-06-12,2024-05-26,Worcester,Under Investigation,21863,
-10,252757,"['Odor', 'Open Burning', 'Smoke']",2024-06-12,2024-05-29,Worcester,Under Investigation,21863,
-11,252756,"['Odor', 'Smoke']",2024-06-12,2024-05-28,Worcester,Under Investigation,21863,
+9,252758,"['Odor', 'Smoke']",2024-06-12,2024-05-26,Worcester,Referred to Outside Agency,21863,
+10,252757,"['Odor', 'Open Burning', 'Smoke']",2024-06-12,2024-05-29,Worcester,Referred to Outside Agency,21863,
+11,252756,"['Odor', 'Smoke']",2024-06-12,2024-05-28,Worcester,Referred to Outside Agency,21863,
 12,252752,['Air'],2024-06-11,2024-06-10,Frederick,Referred to Attorney General's Office,21757,
 13,252720,['Fugitive Dust/Particulate Matter'],2024-06-04,2024-06-04,Kent,Incident Closed-No Violation Observed,21620,2024-06-05
 14,252718,"['Odor', 'Smoke']",2024-06-03,2024-05-20,Worcester,Under Investigation,21863,
@@ -21,7 +21,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 20,252710,['Air'],2024-05-22,2024-05-22,Frederick,Referred to Attorney General's Office,21757,
 21,252710,['Air'],2024-05-22,2024-05-22,Frederick,Referred to Attorney General's Office,21757,
 22,252697,['Other'],2024-05-28,2024-05-29,Prince George's,Incident Closed-Managed,,2024-05-29
-23,252696,['Odor'],2024-05-28,2024-05-26,Worcester,Under Investigation,21863,
+23,252696,['Odor'],2024-05-28,2024-05-26,Worcester,Referred to Outside Agency,21863,
 24,252695,['Odor'],2024-05-20,2024-05-20,Dorchester,Incident Closed - No further action,21835,2024-05-20
 25,252691,"['Air', 'Odor']",2024-05-21,2024-05-21,Carroll,Referred to Outside Agency,21784,
 26,242688,['Odor'],2024-05-20,2024-05-17,Worcester,Incident Closed-No Violation Observed,21811,2024-05-21
@@ -30,7 +30,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 29,242675,['Odor'],2024-04-23,2024-04-22,Prince George's,Under Investigation,20743,
 30,242674,['Smoke'],2024-05-21,2024-04-19,Prince George's,Under Investigation,20743,
 31,242664,['Other'],2024-05-14,2024-05-14,Prince George's,Incident Closed-Managed,,2024-05-17
-32,242663,['Odor'],2024-05-16,2024-05-16,Worcester,Incident Not Applicable to MDE,21863,
+32,242663,['Odor'],2024-05-16,2024-05-16,Worcester,Referred to Outside Agency,21863,
 33,242661,['Air'],2024-05-15,2024-05-15,Anne Arundel,Incident Closed - No further action,20724,2024-05-16
 34,242656,['Odor'],2024-05-10,2024-05-10,Baltimore City,Incident Closed-Managed,,2024-05-14
 35,242655,['Odor'],2024-05-06,2024-05-06,Baltimore City,Incident Closed-Managed,,2024-05-14
