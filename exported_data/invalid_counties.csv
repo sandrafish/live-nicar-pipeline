@@ -1,9 +1,9 @@
-,sno,complaint,complaint_type,recieved_date,county,incident_status_desc,incident_date,incident_zip,incident_closed_date
-275,276,222068,['Other'],2024-02-05,Not Yet Determined,Incident Closed-Managed,2024-02-05,,2024-02-05
-506,507,181543,['Air'],2023-09-22,Not Yet Determined,Incident Not Applicable to MDE,2023-09-21,,
-519,520,181510,['Other'],2023-09-08,Not Yet Determined,Incident Closed - No further action,2023-09-08,,2023-09-22
-561,562,181349,['Other'],2023-08-07,Not Yet Determined,Incident Closed - No further action,2023-08-07,,2023-08-08
-563,564,181343,['Other'],2023-08-07,Not Yet Determined,Incident Closed-Managed,2023-08-07,,2023-08-07
-604,605,171205,['Air'],2023-06-28,Statewide,Incident Closed-Managed,2023-06-28,,2023-06-29
-608,609,171180,['Other'],2023-06-26,Not Yet Determined,Incident Closed-Managed,2023-06-26,,2023-07-07
-783,784,140705,['Air'],2023-03-28,Not Yet Determined,Referred to Outside Agency,2023-03-28,,
+,sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_date,incident_status_desc,incident_zip
+279,280,222068,['Other'],2024-02-05,2024-02-05,Not Yet Determined,2024-02-05,Incident Closed-Managed,
+510,511,181543,['Air'],2023-09-22,2023-09-21,Not Yet Determined,,Incident Not Applicable to MDE,
+523,524,181510,['Other'],2023-09-08,2023-09-08,Not Yet Determined,2023-09-22,Incident Closed - No further action,
+565,566,181349,['Other'],2023-08-07,2023-08-07,Not Yet Determined,2023-08-08,Incident Closed - No further action,
+567,568,181343,['Other'],2023-08-07,2023-08-07,Not Yet Determined,2023-08-07,Incident Closed-Managed,
+608,609,171205,['Air'],2023-06-28,2023-06-28,Statewide,2023-06-29,Incident Closed-Managed,
+612,613,171180,['Other'],2023-06-26,2023-06-26,Not Yet Determined,2023-07-07,Incident Closed-Managed,
+787,788,140705,['Air'],2023-03-28,2023-03-28,Not Yet Determined,,Referred to Outside Agency,
