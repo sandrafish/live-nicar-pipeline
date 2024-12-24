@@ -1,13 +1,13 @@
-,sno,complaint,complaint_type,recieved_date,incident_date,county,incident_closed_date,incident_status_desc,incident_zip
-26,27,313457,"['Air', 'Other', 'Smoke']",2024-12-06,2024-12-06,Statewide,2024-12-09,Incident Closed-Managed,
-68,69,303362,"['Air', 'Other']",2024-10-30,2024-10-30,Statewide,2024-11-08,Incident Closed-Managed,
-135,136,283158,"['Asbestos Complaint', 'Lead Paint Poisoning Complaint']",2024-09-11,2024-09-04,Not Yet Determined,2024-09-17,Incident Closed - No further action,
-161,162,283070,['Other'],2024-08-24,2024-08-24,Not Yet Determined,2024-08-30,Incident Closed-Managed,
-512,513,222068,['Other'],2024-02-05,2024-02-05,Not Yet Determined,2024-02-05,Incident Closed-Managed,
-743,744,181543,['Air'],2023-09-22,2023-09-21,Not Yet Determined,,Incident Not Applicable to MDE,
-756,757,181510,['Other'],2023-09-08,2023-09-08,Not Yet Determined,2023-09-22,Incident Closed - No further action,
-798,799,181349,['Other'],2023-08-07,2023-08-07,Not Yet Determined,2023-08-08,Incident Closed - No further action,
-800,801,181343,['Other'],2023-08-07,2023-08-07,Not Yet Determined,2023-08-07,Incident Closed-Managed,
-841,842,171205,['Air'],2023-06-28,2023-06-28,Statewide,2023-06-29,Incident Closed-Managed,
-845,846,171180,['Other'],2023-06-26,2023-06-26,Not Yet Determined,2023-07-07,Incident Closed-Managed,
-1020,1021,140705,['Air'],2023-03-28,2023-03-28,Not Yet Determined,,Referred to Outside Agency,
+,sno,complaint,complaint_type,recieved_date,incident_date,incident_status_desc,county,incident_zip,incident_closed_date
+28,29,313457,"['Air', 'Other', 'Smoke']",2024-12-06,2024-12-06,Incident Closed-Managed,Statewide,,2024-12-09
+70,71,303362,"['Air', 'Other']",2024-10-30,2024-10-30,Incident Closed-Managed,Statewide,,2024-11-08
+137,138,283158,"['Asbestos Complaint', 'Lead Paint Poisoning Complaint']",2024-09-11,2024-09-04,Incident Closed - No further action,Not Yet Determined,,2024-09-17
+163,164,283070,['Other'],2024-08-24,2024-08-24,Incident Closed-Managed,Not Yet Determined,,2024-08-30
+514,515,222068,['Other'],2024-02-05,2024-02-05,Incident Closed-Managed,Not Yet Determined,,2024-02-05
+745,746,181543,['Air'],2023-09-22,2023-09-21,Incident Not Applicable to MDE,Not Yet Determined,,
+758,759,181510,['Other'],2023-09-08,2023-09-08,Incident Closed - No further action,Not Yet Determined,,2023-09-22
+800,801,181349,['Other'],2023-08-07,2023-08-07,Incident Closed - No further action,Not Yet Determined,,2023-08-08
+802,803,181343,['Other'],2023-08-07,2023-08-07,Incident Closed-Managed,Not Yet Determined,,2023-08-07
+843,844,171205,['Air'],2023-06-28,2023-06-28,Incident Closed-Managed,Statewide,,2023-06-29
+847,848,171180,['Other'],2023-06-26,2023-06-26,Incident Closed-Managed,Not Yet Determined,,2023-07-07
+1022,1023,140705,['Air'],2023-03-28,2023-03-28,Referred to Outside Agency,Not Yet Determined,,
