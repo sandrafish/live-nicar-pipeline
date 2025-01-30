@@ -9,7 +9,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 8,323569,['Air'],2025-01-22,2025-01-21,Baltimore,Referred to ARA,21222,
 9,323563,['Smoke'],2025-01-16,2025-01-16,Allegany,Under Investigation,21502,
 10,323562,['Other'],2025-01-17,2025-01-17,Howard,Incident Closed-Managed,,2025-01-21
-11,323561,['Air'],2025-01-19,2025-01-19,Anne Arundel,Under Investigation,21060,
+11,323561,['Air'],2025-01-19,2025-01-19,Anne Arundel,Incident Closed-No Violation Observed,21060,2025-01-29
 12,323560,['Air'],2025-01-13,2025-01-13,Anne Arundel,Incident Closed-No Violation Observed,21037,2025-01-21
 13,323548,"['Air', 'Fumes', 'Odor']",2025-01-09,2025-01-09,Cecil,Under Investigation,21903,
 14,323546,"['Odor', 'Smoke']",2025-01-14,2025-01-14,Allegany,Under Investigation,21502,
@@ -24,7 +24,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 23,323523,['Odor'],2024-12-19,2024-12-19,Baltimore City,Incident Closed-Managed,,2025-01-07
 24,323522,['Odor'],2024-12-31,2024-12-31,Baltimore City,Incident Closed-Managed,,2025-01-07
 25,323521,['Odor'],2024-12-27,2024-12-27,Baltimore City,Incident Closed-Managed,,2025-01-07
-26,323520,['Air'],2025-01-06,2025-01-06,Baltimore City,Under Investigation,21224,
+26,323520,['Air'],2025-01-06,2025-01-06,Baltimore City,Incident Closed-No Violation Observed,21226,2025-01-29
 27,323518,['Air'],2025-01-02,2025-01-02,Outside of Maryland,Incident Closed-No Violation Observed,,2025-01-06
 28,323516,['ARA AQCP non-regulated entity'],2025-01-02,2024-12-27,Dorchester,Incident Closed - No further action,,2024-12-27
 29,323516,['ARA AQCP non-regulated entity'],2025-01-02,2024-12-27,Dorchester,Incident Closed - No further action,,2024-12-27
