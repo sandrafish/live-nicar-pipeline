@@ -19,7 +19,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 18,364180,['Air'],2025-05-27,2025-05-27,Baltimore,Incident Closed-Managed,,2025-05-28
 19,364175,['Air'],2025-05-19,2025-05-19,Anne Arundel,Incident Closed-Managed,20776,2025-06-17
 20,364174,['Air'],2025-05-20,2025-05-20,Anne Arundel,Incident Closed-No Violation Observed,21060,2025-06-12
-21,364173,['Odor'],2025-05-15,2025-05-14,Allegany,Under Investigation,21540,
+21,364173,['Odor'],2025-05-15,2025-05-14,Allegany,Incident Closed - No further action,21540,2025-06-20
 22,364172,['ARA AQCP non-regulated entity'],2025-05-27,2025-05-15,Dorchester,Incident Closed-Managed,21613,2025-05-27
 23,364171,['Odor'],2025-05-22,2025-05-22,Dorchester,Incident Closed - No further action,21835,2025-05-22
 24,364170,['Odor'],2025-05-22,2025-05-22,Dorchester,Incident Closed - No further action,21835,2025-05-22
@@ -39,7 +39,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 38,354142,['Air'],2025-05-20,2025-05-19,Baltimore,Referred to Outside Agency,,
 40,354136,['Other'],2025-05-16,2025-05-16,Prince George's,Incident Closed-Managed,,2025-05-19
 41,354135,['Other'],2025-05-15,2025-05-15,Prince George's,Incident Closed-Managed,,2025-05-19
-42,354133,['Fumes'],2025-05-12,2025-05-12,Allegany,Under Investigation,21502,
+42,354133,['Fumes'],2025-05-12,2025-05-12,Allegany,Incident Closed - No further action,21502,2025-06-20
 43,354131,['Odor'],2025-05-15,2025-05-14,Dorchester,Incident Closed - No further action,21835,2025-05-14
 44,354130,['Odor'],2025-05-14,2025-05-14,Dorchester,Incident Closed - No further action,21835,2025-05-14
 45,354129,['Odor'],2025-05-14,2025-05-14,Dorchester,Incident Closed - No further action,21835,2025-05-14
@@ -66,7 +66,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 66,354060,['Smoke'],2025-04-25,2025-04-25,Allegany,Under Investigation,26753,
 67,354058,['Air'],2025-04-30,2025-04-30,Anne Arundel,Incident Closed-No Violation Observed,21226,2025-05-01
 68,354056,['Other'],2025-04-30,2025-04-30,Howard,Incident Closed-Managed,,2025-05-01
-69,354051,['Smoke'],2025-04-14,2025-04-14,Allegany,Under Investigation,21502,
+69,354051,['Smoke'],2025-04-14,2025-04-14,Allegany,Incident Closed - No further action,21502,2025-06-20
 70,354050,['Air'],2025-04-28,2025-04-28,Baltimore,Incident Closed-Managed,,2025-05-02
 71,354049,['Air'],2025-04-28,2025-04-28,Frederick,Incident Closed-No Violation Observed,21703,2025-06-10
 72,354047,['ARA AQCP non-regulated entity'],2025-04-28,2025-03-12,Prince George's,Incident Closed - No further action,,2025-03-12
@@ -148,7 +148,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 148,343818,['ARA AQCP non-regulated entity'],2025-03-06,2025-03-06,Caroline,Incident Closed-Managed,,2025-03-06
 149,343812,['Air'],2025-03-10,2025-03-10,Charles,Incident Closed-Managed,20613,2025-03-20
 150,343808,['Air'],2025-03-07,2025-03-07,Anne Arundel,Incident Closed-No Violation Observed,21401,2025-03-12
-151,343801,"['Odor', 'Smoke']",2025-03-03,2025-03-03,Washington,Under Investigation,21742,
+151,343801,"['Odor', 'Smoke']",2025-03-03,2025-03-03,Washington,Incident Closed - No further action,21742,2025-06-20
 152,343799,"['Open Burning', 'Smoke']",2025-03-03,2025-03-03,Washington,Referred to Outside Agency,21740,
 153,343798,['Air'],2025-03-06,2025-03-06,Baltimore,Referred to Outside Agency,,
 154,343797,"['Open Burning', 'Smoke']",2025-03-02,2025-03-02,Allegany,Referred to Outside Agency,21502,
