@@ -10,8 +10,8 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 9,364732,['Other'],2025-09-19,2025-09-19,Howard,Incident Closed-Managed,2025-09-19,21075
 10,364722,['Air'],2025-09-18,2025-09-18,Anne Arundel,Incident Closed-Managed,2025-09-22,21076
 11,364711,['Air'],2025-09-16,2025-09-16,Anne Arundel,Incident Closed - No further action,2025-09-18,
-12,364708,['Air'],2025-09-16,2025-09-15,Frederick,Under Investigation,,
-13,364707,['Air'],2025-09-15,2025-09-15,Frederick,Under Investigation,,21774
+12,364708,['Air'],2025-09-15,2025-09-15,Frederick,Incident Closed-No Violation Observed,2025-09-23,21774
+13,364707,['Air'],2025-09-15,2025-09-15,Frederick,Incident Closed-No Violation Observed,2025-09-23,21774
 14,364700,"['Air', 'Fugitive Dust/Particulate Matter']",2025-09-09,2025-09-09,Cecil,Incident Closed-Managed,2025-09-15,21921
 15,364699,['Other'],2025-09-09,2025-09-09,Cecil,Referred to Outside Agency,,21921
 16,364694,['Air'],2025-09-15,2025-09-15,Baltimore,Incident Closed-Managed,2025-09-23,
@@ -78,7 +78,7 @@ sno,complaint,complaint_type,recieved_date,incident_date,county,incident_status_
 77,364523,['Air'],2025-08-07,2025-08-07,Carroll,Incident Closed-Managed,2025-08-08,
 78,364521,['Air'],2025-08-08,2025-08-08,Baltimore,Under Investigation,,
 79,364520,['Air'],2025-08-07,2025-08-07,Baltimore,Incident Closed-Managed,2025-08-08,
-80,364518,['Air'],2025-08-06,2025-08-06,Frederick,Incident Closed-Managed,2025-09-03,21701
+80,364518,['Air'],2025-08-06,2025-08-06,Frederick,Incident Closed-Managed,2025-09-23,21701
 81,364517,['Air'],2025-08-07,2025-08-01,Frederick,Incident Closed-Managed,2025-08-07,21701
 82,364502,['Fugitive Dust/Particulate Matter'],2025-08-01,2025-08-01,Baltimore City,Incident Closed-Managed,2025-08-06,
 83,364501,['Smoke'],2025-07-30,2025-07-30,Baltimore City,Incident Closed-Managed,2025-08-06,
