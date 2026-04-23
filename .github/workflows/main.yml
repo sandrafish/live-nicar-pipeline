@@ -1,8 +1,9 @@
 # name: Scrape latest data
 on:
- workflow_dispatch:
- schedule:
-   - cron:  '0 */12 * * *'
+#concurrency:
+  # workflow_dispatch:
+ #schedule:
+  # - cron:  '0 */12 * * *'
 
 permissions:
   contents: write
